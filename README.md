@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+    練習で書いたtypescriptのTodo List Appです
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
